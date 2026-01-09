@@ -16,3 +16,8 @@ body{
   padding: 20px 70px;
   justify-content: space-between;
 }
+
+.logo{
+  height: 50px;
+  width: 100px;
+}
