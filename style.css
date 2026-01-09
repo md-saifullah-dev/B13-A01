@@ -21,3 +21,16 @@ body{
   height: 50px;
   width: 100px;
 }
+
+.nav-links{
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.nav-links li{
+  font-size: 15px;
+  color:#334155;
+  cursor:pointer;
+}
+
